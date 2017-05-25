@@ -19,6 +19,7 @@
     [self.view setBackgroundColor:[UIColor redColor]];
     UIImageView *image = [[UIImageView alloc]init];
     [self.view addSubview:image];
+   UIButton *btn = [[UIButton alloc]init];
 }
 
 
