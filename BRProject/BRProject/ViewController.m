@@ -20,6 +20,7 @@
     UIImageView *image = [[UIImageView alloc]init];
     [self.view addSubview:image];
    UIButton *btn = [[UIButton alloc]init];
+    [self.view addSubview:btn];
 }
 
 
