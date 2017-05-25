@@ -110,6 +110,7 @@
 				TargetAttributes = {
 					04E1CD801ED66A6D00B9D7C6 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = 7448PDV238;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -272,6 +273,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7448PDV238;
 				INFOPLIST_FILE = BRProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.aaa.BRProject;
@@ -283,6 +285,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 7448PDV238;
 				INFOPLIST_FILE = BRProject/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.aaa.BRProject;
@@ -309,6 +312,7 @@
 				04E1CD9A1ED66A6D00B9D7C6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
