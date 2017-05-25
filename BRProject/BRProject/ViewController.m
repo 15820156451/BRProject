@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     [self.view setBackgroundColor:[UIColor redColor]];
+    UIImageView *image = [[UIImageView alloc]init];
 }
 
 
